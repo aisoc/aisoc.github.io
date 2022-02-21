@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ![alt text](https://society.ecs.soton.ac.uk/media/societies/usais.png) USAIS 
 
 You can use the [editor on GitHub](https://github.com/aisoc/aisoc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
